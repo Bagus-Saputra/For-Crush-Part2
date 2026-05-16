@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sebuah Surat untuk [Nama Crush]",
+  title: "Sebuah Surat untuk Starcy Salsabila Nayiffah",
   description: "Ada sesuatu yang ingin aku sampaikan...",
 };
 
