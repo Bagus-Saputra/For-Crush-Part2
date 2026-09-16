@@ -167,15 +167,15 @@ export default function SurprisePage() {
                 </p>
 
                 <p style={styles.paragraph}>
-                  First-time secara tiba-tiba banget ngajak pacaran dan itu membuatku kaget dan bingung sambil berpikir
+                  First-time secara tiba-tiba banget ngajak pascin dan itu membuatku kaget dan bingung sambil berpikir
                   "ini orang kenapa tiba-tiba ngajak pacaran dan padahal dia gak tau riwayatku dulu di game ini"
-                  sambil tertawa dan aku mencoba buat memberanikan diri untuk mengatakan iya berpacaran, kemudian 
+                  sambil tertawa dan aku mencoba buat memberanikan diri untuk mengatakan iya berpascin tapi nanti, kemudian 
                   belakangan ini aku masih kebingungan bagaimana cara menyikapi orang yang suka tiba-tiba kek pantek tapi kadang lucu juga tingkahnya.
                   dan yahh, akhirnya aku membuatkan web ini buat kamu.
                 </p>
                 <p style={styles.paragraph}>
                   aku gak tau cara membuktikan rasa cinta ini
-                  tapi dengan membuat ini aku serius untuk lanjut ke hubungan pacaran, tapi maaf dengan sikapku yang kaku dan suka diem 
+                  tapi dengan membuat ini aku serius untuk lanjut ke hubungan lebih dekat, tapi maaf dengan sikapku yang kaku dan suka diem 
                   ini aku sedang pengen liat sikap dan tingkah lucumu itu hehehe, maaf yaa cok 🐒.
                 </p>
                 <p style={styles.paragraph}>
