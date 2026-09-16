@@ -137,7 +137,7 @@ export default function SurprisePage() {
               <div style={styles.stamp}>💌</div>
               <div style={styles.address}>
                 <p style={styles.toText}>To:</p>
-                <p style={styles.name}>Starcy Salsabila Nayiffah</p>
+                <p style={styles.name}>Suci Dwi Melati</p>
               </div>
             </div>
             <div style={{ ...styles.envelopeFlap, transform: isAnimating ? 'rotateX(180deg)' : 'rotateX(0)' }} />
@@ -158,22 +158,27 @@ export default function SurprisePage() {
 
               <div style={styles.heartDecoration}>❤️</div>
 
-              <h1 style={styles.title}>Untuk Starcy Salsabila Nayiffah,</h1>
+              <h1 style={styles.title}>Untuk Suci Dwi Melati,</h1>
 
               <div style={styles.message}>
                 <p style={styles.paragraph}>
-                  Hai! Sebenarnya aku sudah lama ingin ngomong ini, tapi selalu gagal berani. 
+                  Hii! Sebenarnya aku ingin ngomong ini, tapi selalu diam dan takut buat mengatakan ini. 
                   Makanya aku buat website kecil-kecilan ini sebagai cara paling berani yang bisa aku lakukan.
                 </p>
 
                 <p style={styles.paragraph}>
-                  Setiap hari bersamamu tuh bikin hariku jadi lebih berwarna. Pengertianmu, 
-                  cara kamu ngomong, bahkan saat kamu lagi serius sekalipun — semuanya bikin aku merasa 
-                  "ah, seneng banget ya ada dia di hidup aku".
+                  First-time secara tiba-tiba banget ngajak pacaran dan itu membuatku kaget dan bingung sambil berpikir
+                  "ini orang kenapa tiba-tiba ngajak pacaran dan padahal dia gak tau riwayatku dulu di game ini"
+                  sambil tertawa dan aku mencoba buat memberanikan diri untuk mengatakan iya berpacaran, kemudian 
+                  belakangan ini aku masih kebingungan juga bagaimana cara menyikapi orang yang suka tiba-tiba moodswing,
+                  kemudian dan yahh, akhirnya aku membuatkan web ini untuk kamu. aku gak tau cara membuktikan rasa cinta ini
+                  tapi dengan membuat ini aku serius untuk lanjut ke hubungan pacaran, tapi maaf dengan sikapku yang kaku dan suka diem 
+                  ini aku sedang pengen liat sikap dan tingkah lucumu itu hehehe, maaf yaa cok 🐒
+                  . entah ini excited atau bukan, dan biasa aja atau bukan tapi pukimaklah capek aku bikin kata-kata serius anjeng
                 </p>
 
                 <p style={styles.paragraph}>
-                  Aku tahu ini mungkin tiba-tiba, tapi aku nggak mau terus-terusan jadi orang yang 
+                  maaf yaa kalau ini tiba-tiba, tapi aku nggak mau terus-terusan jadi orang yang 
                   cuma bisa diam dari jauh. Jadi...
                 </p>
 
