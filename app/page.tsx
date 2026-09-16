@@ -282,7 +282,7 @@ export default function SurprisePage() {
               <p style={styles.signature}>
                 From,
                 <br />
-                <span style={styles.signatureName}>Dino 💌</span>
+                <span style={styles.signatureName}>Putra 💌</span>
               </p>
             </div>
           </div>
