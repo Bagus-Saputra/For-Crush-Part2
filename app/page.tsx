@@ -137,7 +137,7 @@ export default function SurprisePage() {
               <div style={styles.stamp}>💌</div>
               <div style={styles.address}>
                 <p style={styles.toText}>To:</p>
-                <p style={styles.name}>Suci Dwi Melati</p>
+                <p style={styles.name}>Someone</p>
               </div>
             </div>
             <div style={{ ...styles.envelopeFlap, transform: isAnimating ? 'rotateX(180deg)' : 'rotateX(0)' }} />
@@ -158,7 +158,7 @@ export default function SurprisePage() {
 
               <div style={styles.heartDecoration}>❤️</div>
 
-              <h1 style={styles.title}>Untuk Suci Dwi Melati,</h1>
+              <h1 style={styles.title}>Untuk Someone,</h1>
 
               <div style={styles.message}>
                 <p style={styles.paragraph}>
